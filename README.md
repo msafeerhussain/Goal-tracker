@@ -22,7 +22,7 @@ Welcome to the Goal Tracking System repository built with React.js! This simple 
   - Input background color changes to salmon.
 
 ## Demo
-You can try out the Goal Tracking System by visiting the live demo [here](#insert-link-to-demo-here).
+You can try out the Goal Tracking System by visiting the live demo [here](https://goal-tracker-six.vercel.app/).
 
 ## Getting Started
 Follow these instructions to get the project up and running on your local machine.
@@ -34,7 +34,7 @@ Before you begin, ensure you have met the following requirements:
 ### Installation
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/your-username/goal-tracking-system.git
+   git clone https://github.com/msafeerhussain/Goal-tracker.git
    ```
 
 2. Navigate to the project directory:
